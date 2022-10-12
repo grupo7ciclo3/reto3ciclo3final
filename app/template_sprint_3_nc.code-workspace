@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "reto3ciclo3final",
+			"path": "../../reto3ciclo3final"
+		}
+	],
+	"settings": {
+		"netbeans.javaSupport.enabled": true,
+		"files.autoSave": "onFocusChange",
+		"workbench.editor.autoLockGroups": {
+			"default": true,
+			"vscode-interactive-input": true,
+			"interactive": true,
+			"workbench.editorinputs.searchEditorInput": true,
+			"imagePreview.previewEditor": true,
+			"vscode.markdown.preview.editor": true,
+			"jsProfileVisualizer.cpuprofile.table": true,
+			"jsProfileVisualizer.heapprofile.table": true,
+			"gitlens.rebase": true,
+			"custom.editor": true,
+			"java.formatterSettingsEditor": true
+		},
+		"workbench.settings.editor": "json",
+		"debug.openExplorerOnEnd": true,
+		"extensions.closeExtensionDetailsOnViewChange": true,
+		"notebook.lineNumbers": "on"
+	}
+}
